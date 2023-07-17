@@ -7,3 +7,5 @@ Start: <% tp.date.now("HH\:mm") %>
 End: <% tp.date.now("HH\:mm") %>
 
 **Notes:**
+
+**Tags for the day:** 
