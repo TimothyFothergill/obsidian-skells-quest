@@ -15,8 +15,14 @@ https://johnleonardfrench.com/how-to-fade-audio-in-unity-i-tested-every-method-t
 This article gives an interesting idea, which is to use an Audio Mixer Group component, which is a new one to me.
 
 Stopped: 12:40
-Started: 19:58
+Started: 22:38
 
-Having issues with my IDE, stopping for the day.
+I started this back up and got it across the finish line. Had plenty of IDE troubles yesterday, but got it fixed. In any event, this was a new one to me. The configuration of an Audio Mixer Group was strange:
 
-*Finish time:* 20:24
+> Open the Audio Mixer window (Window > Audio > Audio Mixer)
+> Create an Audio Mixer Group
+> Select that Mixer Group and in the Inspector window, expose the volume parameter (right click on volume to get the option for this)
+> Back in the Audio Mixer window, at the top right is an Exposed Parameters dropdown, select the volume from the group and give it a name
+> This can now be referenced in code with a `SetFloat()` or `SetInt()` (etc).
+
+*Finish time:* 23:12
