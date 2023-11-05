@@ -1,0 +1,14 @@
+- [x] Move and reduce buff/debuff sizes
+	- [x] Buffs and debuffs tooltip
+- [x] Menu Screen
+- [x] Quick Access Button: Menu
+- [x] Camera position - Make it so Skell is less central
+- [x] Achievements Screen
+- [x] Quick Access Button: Achievements
+- [x] Double check that the item data is correctly set in the prefab for Wildcraft related stuff
+- [x] Make enemy item drops go into your inventory, not the ground, unless inventory is full
+- [ ] Make items stackable in inventory
+- [ ] Make resource bar show up on hover - Make these options
+- [ ] Make resource bar numbers only visible on change and on hover - Make these options
+- [ ] Fix the issue of targeted skills auto-casting when clicked instead of keyboard pressed
+
