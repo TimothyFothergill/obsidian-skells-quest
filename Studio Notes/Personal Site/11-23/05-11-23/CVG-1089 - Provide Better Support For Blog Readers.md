@@ -18,5 +18,10 @@ So that I can get replies as I'd expect.
 
 **Comments:** 
 
+This is what a good hovercard should look like.
+
+![[Pasted image 20231107203818.png]]
+
+This is work that will be picked up over multiple days/weeks between game dev sessions.
 
 *Finish time:* 
