@@ -1,0 +1,7 @@
+- [ ] Check if the game correctly populates the crafting stations
+- [ ] Go to the datasheet and download the Items list, rename the file to "Items"
+- [ ] Custom Tooling > CSV Generators > Items 
+- [ ] Check if this resolves it, if nothing is appearing in the stations still, follow the child checkboxes.
+	- [ ] Go to the datasheet and download the Abilities list, rename the file to "Abilities"
+	- [ ] Custom Tooling > CSV Generators > Abilities
+- [ ] Remember to delete all CSV files downloaded this way
